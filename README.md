@@ -1,4 +1,4 @@
-- 👋 Hi, Michael
+
 - 👀 I’m interested in coding in python
 - 🌱 I’m currently learning python
 
